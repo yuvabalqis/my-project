@@ -1,0 +1,41 @@
+header {
+    background-color: #05106B;
+    padding: 30px;
+}
+ nav a{
+    text-decoration: none;
+    background-color: #0975F3;
+    padding: 13px;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 15px;
+    margin-right: 66px;
+    color: white;
+    
+ }
+ nav{
+    text-align: center; 
+ }
+ html{
+    font-family: sans-serif;
+ }
+ .atsushi{
+  size height:350px; width:350px;
+ }
+  .tiger{
+   height: 150px; width: 250px;
+  }
+ main h3{
+   text-align: left;
+ }
+ main nav{
+   text-align: right;
+ }
+ footer{
+   background-color: #05106B;
+   padding: 10px;
+ }
+ footer h6{
+   color: white;
+   text-align: center;
+ }
